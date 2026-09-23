@@ -1,6 +1,6 @@
 # Day 5 — Something More Productive
 
-SITEPRO concept website for Something More Productive, Withington, Manchester.
+Independent, unofficial frontend concept for Something More Productive, Withington, Manchester. It is not the café's official site or a commissioned project.
 
 ## Status
 GitHub-ready demo build. Blank media placeholders have been replaced with real public SMP imagery from café-specific coverage, and live Instagram/Reels/Linktree links are wired into the experience.
